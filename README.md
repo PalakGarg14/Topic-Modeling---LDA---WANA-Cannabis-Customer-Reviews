@@ -1,7 +1,7 @@
 # Topic-Modeling---LDA---WANA-Cannabis-Customer-Reviews
 
 **Wana Gummies Reviews Analysis**
-This project is a data analysis of customer reviews for multiple Wana gummies, which were extracted from the iHeartJane website. The goal of this project is to perform topic modeling on the reviews and identify the most commonly discussed topics.
+This project is a data analysis of customer reviews for multiple Wana gummies, which were extracted from the iHeartJane website (the most popular website for cannabis ordering and reviews). The goal of this project is to perform topic modeling on the reviews and identify the most commonly discussed topics.
 
 **Contents**
 
