@@ -9,7 +9,7 @@ This project is a data analysis of customer reviews for multiple Wana gummies, w
 2.	Import Dataset
 3.	Tokenize Sentences and Clean
 4.	Build the Bigram, Trigram Models and Lemmatize
-5.	Build the Topic Model
+5.	Build the Topic Model and Optimizing it using coherence
 6.	Presenting the Results
     - What is the Dominant topic and its percentage contribution in each document?
     - The most representative sentences for each topic
@@ -40,7 +40,7 @@ The analysis is performed using Jupyter Notebook and the Python programming lang
 2.	**Import Dataset**: This section imports the data and prepares it for analysis.
 3.	**Tokenize Sentences and Clean**: This section tokenizes the sentences in the customer reviews and performs cleaning operations, including removing stop words and punctuation.
 4.	**Build the Bigram, Trigram Models and Lemmatize**: This section builds bigram and trigram models to identify frequently occurring phrases and lemmatizes the text to reduce inflectional forms to a common base form.
-5.	**Build the Topic Model:** This section builds an LDA (Latent Dirichlet Allocation) topic model to identify the most discussed topics in the customer reviews.
+5.	**Build the Topic Model and Optimizing it:** This section builds an LDA (Latent Dirichlet Allocation) topic model to identify the most discussed topics in the customer reviews. The model is optimised using jaccard score and coherence score.
 6.	**Presenting the Results**: This section presents the results of the analysis, including:
     - What is the Dominant topic and its percentage contribution in each document?
     - The most representative sentences for each topic
